@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+
+body {
+	background: darkgray;
+    display: grid;
+    align-items: center;
+}
+
+table {
+    border: 4px solid rgba(0, 0, 0, 0.2);
+    background-color: bisque;
+    border-collapse: collapse; 
+    
+}
+
+  
+th, td {
+    border: 1px solid gray; 
+    padding: 8px; 
+}
